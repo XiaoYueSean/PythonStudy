@@ -1,0 +1,24 @@
+{
+    "person_1":{
+        "music":[
+            "pop",
+            "rock"
+        ],
+        "musical_instruction":[
+            "paino",
+            "guitar"
+        ]
+    },
+    "person_2":{
+        "music":[
+            "dance"
+            
+        ]
+    },
+    "person_3":{
+        "music":[
+            "jazz"
+        ]
+    },
+
+}    
